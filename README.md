@@ -20,6 +20,7 @@ Analyze workload, overtime, and satisfaction as attrition drivers
 Detect demographic and tenure-based flight-risk patterns
 
 Provide data-driven HR strategy recommendations
+
 .
 
 📂 Dataset Description
@@ -29,6 +30,7 @@ Total records: 10,000 employees
 Each record represents an individual employee profile
 
 .
+
 Key Attributes:
 
 Demographics: Age, Gender, Marital Status, Distance from Home
