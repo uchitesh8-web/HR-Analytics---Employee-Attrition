@@ -7,6 +7,7 @@ The objective is to transform raw HR data into actionable business insights that
 
 The analysis combines Excel-based data engineering with Power BI dashboards to deliver an executive-ready HR analytics solution.
 
+
 🎯 Business Objectives
 
 Measure overall employee attrition rate
@@ -19,11 +20,13 @@ Detect demographic and tenure-based flight-risk patterns
 
 Provide data-driven HR strategy recommendations
 
+
 📂 Dataset Description
 
 Total records: 10,000 employees
 
 Each record represents an individual employee profile
+
 
 Key Attributes:
 
@@ -35,7 +38,8 @@ Performance & Sentiment: Job Satisfaction, Work-Life Balance, Project Count
 
 Target Variable: Attrition (Yes / No) 
 
-HR Analytics – Employee Attriti…
+
+
 
 🛠 Tools & Technologies Used
 
@@ -44,6 +48,8 @@ Excel – Data preprocessing & feature engineering
 Power BI – Dashboarding & interactive visual analytics
 
 🧹 Data Preprocessing & Feature Engineering (Excel)
+
+
 
 Key data engineering steps performed before Power BI import:
 
@@ -67,7 +73,7 @@ Engineered Tenure Aging to analyze exit timing patterns
 
 These steps ensured a clean, reliable dataset ready for analytics 
 
-HR Analytics – Employee Attriti…
+
 
 .
 
@@ -81,7 +87,7 @@ Attrition Rate: 19.97%
 
 These KPIs provide a high-level view of workforce health and retention risk 
 
-HR Analytics – Employee Attriti…
+
 
 .
 
@@ -96,7 +102,7 @@ Employees with 7+ projects show ~35–38% attrition
 
 Indicates a clear burnout tipping point 
 
-HR Analytics – Employee Attriti…
+
 
 ⏱ Overtime Impact
 
@@ -106,7 +112,7 @@ The effect is strongest in IT and Sales departments
 
 Overtime is identified as a primary attrition driver, not salary alone 
 
-HR Analytics – Employee Attriti…
+
 
 🏢 Department-Level Risk
 
@@ -116,7 +122,8 @@ R&D department shows strong retention and stability
 
 Highlights uneven workload and cultural differences across departments 
 
-HR Analytics – Employee Attriti…
+
+
 
 👥 Demographic Insights
 
@@ -126,7 +133,7 @@ Indicates a mid-career retention challenge
 
 Early-career employees (20–29) also show early churn, linked to onboarding gaps 
 
-HR Analytics – Employee Attriti…
+
 
 🧠 Job Role & Satisfaction Matrix
 
@@ -136,7 +143,8 @@ Heatmap analysis helps identify hidden risk zones
 
 Enables targeted HR interventions rather than generic policies 
 
-HR Analytics – Employee Attriti…
+
+
 
 ⏳ Tenure-Based Exit Patterns
 
@@ -146,7 +154,8 @@ Secondary spike within the first 6 months
 
 Suggests issues in career growth clarity and onboarding alignment 
 
-HR Analytics – Employee Attriti…
+
+
 
 🎛 Interactive Dashboard Features (Power BI)
 
@@ -160,7 +169,7 @@ Department, Age Group, and Project Count drill-downs
 
 These slicers allow HR teams to perform root-cause analysis dynamically 
 
-HR Analytics – Employee Attriti…
+
 
 .
 
@@ -178,7 +187,7 @@ Improve onboarding experience to reduce early-stage attrition
 
 These actions directly address the root causes identified in the analysis 
 
-HR Analytics – Employee Attriti…
+
 
 .
 
@@ -186,6 +195,7 @@ HR Analytics – Employee Attriti…
 
 This project demonstrates how structured data preprocessing and interactive dashboards can uncover hidden attrition risks and support data-driven HR decision-making.
 It highlights the importance of workload balance, career progression, and employee well-being in retaining top talent.
+
 
 📚 Learning Outcomes
 
