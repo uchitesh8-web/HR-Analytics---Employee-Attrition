@@ -7,6 +7,7 @@ The objective is to transform raw HR data into actionable business insights that
 
 The analysis combines Excel-based data engineering with Power BI dashboards to deliver an executive-ready HR analytics solution.
 
+.
 
 🎯 Business Objectives
 
@@ -19,7 +20,7 @@ Analyze workload, overtime, and satisfaction as attrition drivers
 Detect demographic and tenure-based flight-risk patterns
 
 Provide data-driven HR strategy recommendations
-
+.
 
 📂 Dataset Description
 
@@ -27,7 +28,7 @@ Total records: 10,000 employees
 
 Each record represents an individual employee profile
 
-
+.
 Key Attributes:
 
 Demographics: Age, Gender, Marital Status, Distance from Home
@@ -38,7 +39,7 @@ Performance & Sentiment: Job Satisfaction, Work-Life Balance, Project Count
 
 Target Variable: Attrition (Yes / No) 
 
-
+.
 
 
 🛠 Tools & Technologies Used
@@ -49,7 +50,7 @@ Power BI – Dashboarding & interactive visual analytics
 
 🧹 Data Preprocessing & Feature Engineering (Excel)
 
-
+.
 
 Key data engineering steps performed before Power BI import:
 
@@ -102,7 +103,7 @@ Employees with 7+ projects show ~35–38% attrition
 
 Indicates a clear burnout tipping point 
 
-
+.
 
 ⏱ Overtime Impact
 
@@ -112,7 +113,7 @@ The effect is strongest in IT and Sales departments
 
 Overtime is identified as a primary attrition driver, not salary alone 
 
-
+.
 
 🏢 Department-Level Risk
 
@@ -122,7 +123,7 @@ R&D department shows strong retention and stability
 
 Highlights uneven workload and cultural differences across departments 
 
-
+.
 
 
 👥 Demographic Insights
@@ -133,7 +134,7 @@ Indicates a mid-career retention challenge
 
 Early-career employees (20–29) also show early churn, linked to onboarding gaps 
 
-
+.
 
 🧠 Job Role & Satisfaction Matrix
 
@@ -143,7 +144,7 @@ Heatmap analysis helps identify hidden risk zones
 
 Enables targeted HR interventions rather than generic policies 
 
-
+.
 
 
 ⏳ Tenure-Based Exit Patterns
@@ -155,7 +156,7 @@ Secondary spike within the first 6 months
 Suggests issues in career growth clarity and onboarding alignment 
 
 
-
+.
 
 🎛 Interactive Dashboard Features (Power BI)
 
@@ -196,6 +197,7 @@ These actions directly address the root causes identified in the analysis
 This project demonstrates how structured data preprocessing and interactive dashboards can uncover hidden attrition risks and support data-driven HR decision-making.
 It highlights the importance of workload balance, career progression, and employee well-being in retaining top talent.
 
+.
 
 📚 Learning Outcomes
 
