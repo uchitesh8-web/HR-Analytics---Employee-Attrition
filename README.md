@@ -9,6 +9,13 @@ The analysis combines **Excel-based data engineering** with **Power BI dashboard
 
 ---
 
+DashBoard Overview
+
+<img width="1347" height="767" alt="Screenshot 2025-12-24 121154" src="https://github.com/user-attachments/assets/9354af88-aa8c-4172-86fa-0791067b0b3c" />
+
+
+---
+
 ## 🎯 Business Objectives
 
 * Measure overall employee attrition rate
